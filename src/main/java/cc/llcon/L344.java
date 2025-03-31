@@ -22,8 +22,6 @@
  */
 package cc.llcon;
 
-import java.util.Arrays;
-
 public class L344 {
     public static void main(String[] args) {
         char[] a = new char[]{'h', 'e', 'l', 'l', 'o'};
