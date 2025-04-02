@@ -3,7 +3,13 @@ package cc.llcon.L242;
 import java.util.HashMap;
 
 class Solution {
-    public static boolean isAnagram(String s, String t) throws NullPointerException {
+    /**
+     * 使用兩個hashMap統計所有字符出現的次數 然後比較兩個hashMap是否相等
+     * @param s 輸入字符串1
+     * @param t 輸入字符串2
+     * @return 字符串的組成是否相等
+     */
+    public static boolean isAnagram(String s, String t){
         if (s.length() != t.length()) {
             return false;
         }
