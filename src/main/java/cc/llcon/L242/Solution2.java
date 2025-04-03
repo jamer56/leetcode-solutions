@@ -25,6 +25,7 @@ class Solution2 {
         char[] sCharArray = s.toCharArray();
         char[] tCharArray = t.toCharArray();
 
+
         for (int i = 0; i < s.length(); i++) {
             characterHashMap.putIfAbsent(sCharArray[i], 0);
             characterHashMap.compute(sCharArray[i], (k, v) -> v + 1);

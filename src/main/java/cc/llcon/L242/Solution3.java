@@ -16,14 +16,13 @@ public class Solution3 {
         }
         int[] characterCount = new int[26];
 
-
         char[] sCharArray = s.toCharArray();
         char[] tCharArray = t.toCharArray();
 
         // 97 小寫 a  ascii 編碼
         for (int i = 0; i < s.length(); i++) {
-            characterCount[sCharArray[i] - 97]++;
-            characterCount[tCharArray[i] - 97]--;
+            characterCount[sCharArray[i] - 'a']++;
+            characterCount[tCharArray[i] - 'a']--;
         }
 
         for (int i = 0; i < 26; i++) {
