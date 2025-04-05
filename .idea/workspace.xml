@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a2f472a-8792-4f1a-a1a2-834d1ce35c77" name="Changes" comment="添加註釋 0242">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cc/llcon/L387/L387.java" afterDir="false" />
+    <list default="true" id="1a2f472a-8792-4f1a-a1a2-834d1ce35c77" name="Changes" comment="完成题目 0387&#10;0387 First Unique Character in a String">
+      <change afterPath="$PROJECT_DIR$/src/main/java/cc/llcon/L26.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/llcon/L242/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cc/llcon/L242/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/llcon/L242/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cc/llcon/L242/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cc/llcon/L242/L242.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cc/llcon/L242/L242.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +62,7 @@
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/l8898/Documents/project/Java/leetcode/src/main/java/cc/llcon",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,13 +71,16 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "Code Search",
+    "settings.editor.selected.configurable": "leetcode.id",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="cc.llcon.L242" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\l8898\Documents\project\Java\leetcode\src\main\java\cc\llcon" />
     </key>
   </component>
   <component name="RunManager" selected="Application.L387">
@@ -161,7 +164,8 @@
       <workItem from="1743551444953" duration="794000" />
       <workItem from="1743591952114" duration="7381000" />
       <workItem from="1743605313349" duration="3593000" />
-      <workItem from="1743674799508" duration="1375000" />
+      <workItem from="1743674799508" duration="1629000" />
+      <workItem from="1743856346264" duration="1953000" />
     </task>
     <task id="LOCAL-00001" summary="完成題目 0001 0344&#10;0001 Two Sum&#10;0344 Reverse String">
       <option name="closed" value="true" />
@@ -195,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743599194955</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="完成题目 0387&#10;0387 First Unique Character in a String">
+      <option name="closed" value="true" />
+      <created>1743676326673</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743676326673</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +229,7 @@
     <MESSAGE value="完成題目 0242&#10;0242 Valid Anagram" />
     <MESSAGE value="添加註釋-題目標題 0242" />
     <MESSAGE value="添加註釋 0242" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加註釋 0242" />
+    <MESSAGE value="完成题目 0387&#10;0387 First Unique Character in a String" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成题目 0387&#10;0387 First Unique Character in a String" />
   </component>
 </project>
