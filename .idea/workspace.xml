@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a2f472a-8792-4f1a-a1a2-834d1ce35c77" name="Changes" comment="删除不必要 annotation import&#10;格式化代码">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cc/llcon/L19/L19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cc/llcon/L19/LinkedListUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cc/llcon/L19/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cc/llcon/L19/Solution.java" afterDir="false" />
+    <list default="true" id="1a2f472a-8792-4f1a-a1a2-834d1ce35c77" name="Changes" comment="完成题目 0019 Remove Nth Node From End of List&#10;添加注释-题目 0237">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/llcon/L237/L237.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cc/llcon/L237/L237.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cc/llcon/L19/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cc/llcon/L19/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +204,7 @@
       <workItem from="1743929802403" duration="3290000" />
       <workItem from="1744011884257" duration="4541000" />
       <workItem from="1744016720844" duration="4851000" />
-      <workItem from="1744023085484" duration="953000" />
+      <workItem from="1744023085484" duration="1484000" />
     </task>
     <task id="LOCAL-00001" summary="完成題目 0001 0344&#10;0001 Two Sum&#10;0344 Reverse String">
       <option name="closed" value="true" />
@@ -290,7 +286,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744021133160</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="完成题目 0019 Remove Nth Node From End of List&#10;添加注释-题目 0237">
+      <option name="closed" value="true" />
+      <created>1744024444701</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1744024444701</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,6 +339,7 @@
     <MESSAGE value="完成题目 0122 Best Time to Buy and Sell Stock II" />
     <MESSAGE value="完成题目 0237 Delete Node in a Linked List" />
     <MESSAGE value="删除不必要 annotation import&#10;格式化代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除不必要 annotation import&#10;格式化代码" />
+    <MESSAGE value="完成题目 0019 Remove Nth Node From End of List&#10;添加注释-题目 0237" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成题目 0019 Remove Nth Node From End of List&#10;添加注释-题目 0237" />
   </component>
 </project>

@@ -3,6 +3,7 @@ package cc.llcon.L19;
 import java.util.Stack;
 
 class Solution {
+    // TODO 改使用双指针完成
     public static ListNode removeNthFromEnd(ListNode head, int n) {
         Stack<ListNode> stack = new Stack<>();
         ListNode tmp = head;
