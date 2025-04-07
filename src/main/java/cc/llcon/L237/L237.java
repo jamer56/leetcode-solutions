@@ -2,10 +2,6 @@ package cc.llcon.L237;
 
 import lombok.extern.slf4j.Slf4j;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-
 @Slf4j
 public class L237 {
     public static void main(String[] args) {
@@ -24,7 +20,7 @@ public class L237 {
             log.warn("链表中找不到目标Node");
             return;
         }
-        Solution.deleteNode(node,head);
+        Solution.deleteNode(node, head);
 
         // 打印修改后的鏈表
         log.info("修改後的鏈錶 : {}", head.toString());

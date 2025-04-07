@@ -10,12 +10,12 @@ public class ListNode {
 
     @Override
     public String toString() {
-        StringBuilder stringBuilder=new StringBuilder();
+        StringBuilder stringBuilder = new StringBuilder();
         stringBuilder.append('[').append(this.val);
-        ListNode tmp=this.next;
+        ListNode tmp = this.next;
         while (tmp != null) {
             stringBuilder.append(" -> ").append(tmp.val);
-            tmp=tmp.next;
+            tmp = tmp.next;
         }
         stringBuilder.append(']').append("@").append(Integer.toHexString(hashCode()));
         return stringBuilder.toString();
